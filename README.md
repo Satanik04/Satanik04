@@ -1,5 +1,5 @@
-I'm Satanik,a data science engineer.
-Turning ideas into real-world projects
-Interested in Machine Learning & AI
-Building real-world projects
+💻 Data Science Engineer
+📊 Turning ideas into real-world projects
+🤖 Machine Learning & AI enthusiast
+🚀 Always learning new technologies
 Passionate about solving real-world problems with data
